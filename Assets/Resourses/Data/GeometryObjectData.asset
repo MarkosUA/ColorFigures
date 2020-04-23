@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d9a5d22bfe4be4cb8703013acecb82, type: 3}
+  m_Name: GeometryObjectData
+  m_EditorClassIdentifier: 
+  ClicksData:
+  - {fileID: 11400000, guid: dfb2427d1ef2c8f40a0ab2e9ea5c2da5, type: 2}
+  - {fileID: 11400000, guid: fa61b4d6955475d4f9ffd631290213e5, type: 2}
+  - {fileID: 11400000, guid: d43647226ea929949900243aa4b35e15, type: 2}
+  - {fileID: 11400000, guid: c93005343f5b2c24f89b067d635240dd, type: 2}
+  - {fileID: 11400000, guid: f8c961ac792fe0c41893866a21979eda, type: 2}
+  - {fileID: 11400000, guid: a5d3719dec1965749b53fe58926a0d41, type: 2}
+  - {fileID: 11400000, guid: b7bcb70f8f428ec418359bfc0a67ddc0, type: 2}
+  - {fileID: 11400000, guid: 736d1d94f7972fe4da829ff63bc97024, type: 2}
+  - {fileID: 11400000, guid: 4ef5f6aeb15802e48aa05aae35c5159c, type: 2}
